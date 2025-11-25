@@ -7,3 +7,4 @@ function conectarBD() {
     return $con;
 }
 ?>
+

@@ -24,7 +24,7 @@
         
         </form>
 
-    <h2>Jogos já cadastrados:</h2>
+    <h2>Jogos já cadastrados: </h2>
 
     <?php
         require_once "funcoesBD.php";
